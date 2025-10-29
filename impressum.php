@@ -1,3 +1,3 @@
 <?php
-echo "Impressum";
+echo "Impressum und noch viele ";
 ?>
